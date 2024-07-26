@@ -43,5 +43,12 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 ![image](https://github.com/user-attachments/assets/57e783f6-a0f9-489a-9bfc-b58c65084f3a)
 
+* Check "Trust server certificate" and click "Connect":
 
-![image](https://github.com/user-attachments/assets/1f634d2c-13ed-45d6-98be-f2f7b5d07fed)
+![image](https://github.com/user-attachments/assets/30db39fd-96cf-4b85-b26e-69cc5540d416)
+
+* Once the database engine is connected, right-click on "Database" in the Object Explorer and click "Restore Database":
+
+![image](https://github.com/user-attachments/assets/a7b73314-1b65-4ebd-956e-3ed367415b8d)
+
+
