@@ -23,7 +23,7 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 * Go Back to the window  that says "SQL Server Installation Center" and now click on "Install SQL Server Management Tools"
 
-* It will take you to a new web-page. Click on "Download SQL Server Management Studio (SSMS) #Version Number# "
+* It will take you to a new web-page. Click on "Download SQL Server Management Studio (SSMS) #Version Number#":
 
 ![image](https://github.com/user-attachments/assets/b5dd5223-b4f0-4d61-8073-93614c7e52bf)
 
@@ -37,8 +37,11 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 ![image](https://github.com/user-attachments/assets/e1725d9e-5de6-4065-acb9-cf451001f16a)
 
-* If the "Server name" is unpopulated, click on "<Browse for more...>" under the drop-down button
+* If the "Server name" is unpopulated, click on "Browse for more..." under the drop-down button
 
+* Expand the "Database Engine" option under Local Servers and click on "#your computer name#\SQLEXPRESS" and click "OK":
+
+![image](https://github.com/user-attachments/assets/57e783f6-a0f9-489a-9bfc-b58c65084f3a)
 
 
 ![image](https://github.com/user-attachments/assets/1f634d2c-13ed-45d6-98be-f2f7b5d07fed)
