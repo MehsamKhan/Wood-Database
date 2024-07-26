@@ -25,6 +25,20 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 * It will take you to a new web-page. Click on "Download SQL Server Management Studio (SSMS) #Version Number# "
 
-  ![image](https://github.com/user-attachments/assets/b5dd5223-b4f0-4d61-8073-93614c7e52bf)
+![image](https://github.com/user-attachments/assets/b5dd5223-b4f0-4d61-8073-93614c7e52bf)
 
 * Open the downloaded .exe file and click on "Install"
+
+## Open Microsoft SQL Server Management Studio and Import Database:
+
+* Search for "SSMS" in the Windows Search bar and open "SQL Server Management Studio"
+
+* Depending on your system, the first time you open SQL Server Management Studio, you might get this window:
+
+![image](https://github.com/user-attachments/assets/e1725d9e-5de6-4065-acb9-cf451001f16a)
+
+* If the "Server name" is unpopulated, click on "<Browse for more...>" under the drop-down button
+
+
+
+![image](https://github.com/user-attachments/assets/1f634d2c-13ed-45d6-98be-f2f7b5d07fed)
