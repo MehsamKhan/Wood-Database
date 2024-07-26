@@ -51,6 +51,11 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 ![image](https://github.com/user-attachments/assets/a7b73314-1b65-4ebd-956e-3ed367415b8d)
 
-* Check "Device" and browse for the "Wood Calibration.bak" that you have downloaded from 
+* Check "Device" and click the "..." button. Click "Add" in the new window and browse for the "Wood Calibration.bak" that you have downloaded
+from the GitHub main folder. Click "OK" and the database should be imported now:
 
 ![image](https://github.com/user-attachments/assets/138be298-8b6f-461a-acf3-1d8a6f48cd39)
+
+![image](https://github.com/user-attachments/assets/6ab6c479-6a79-44e1-9868-d7e886ffd0f4)
+
+
