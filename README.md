@@ -1,7 +1,7 @@
 # Wood Database
 This is a database containing the non-elastic mechanical properties (such as fracture and creep) of different species of wood. It has been created as a relational database using Microsoft SQL Server. 
 
-# To access the database, follow these steps (Instructions for Windows):
+# To access the database, follow these steps (Instructions for Windows OS):
 
 ## Install Microsoft SQL Server Express (Free):
 * Click on "Download Now" under Express from here:
