@@ -27,3 +27,4 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
   ![image](https://github.com/user-attachments/assets/b5dd5223-b4f0-4d61-8073-93614c7e52bf)
 
+* Open the downloaded .exe file and click on "Install"
