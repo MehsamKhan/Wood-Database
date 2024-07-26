@@ -51,4 +51,6 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 ![image](https://github.com/user-attachments/assets/a7b73314-1b65-4ebd-956e-3ed367415b8d)
 
+* Check "Device" and browse for the "Wood Calibration.bak" that you have downloaded from 
 
+![image](https://github.com/user-attachments/assets/138be298-8b6f-461a-acf3-1d8a6f48cd39)
