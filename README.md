@@ -21,4 +21,9 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 * Accept all the defaults and keep clicking next until it finishes installing
 
-* Go Back to the pop-up window 
+* Go Back to the window  that says "SQL Server Installation Center" and now click on "Install SQL Server Management Tools"
+
+* It will take you to a new web-page. Click on "Download SQL Server Management Studio (SSMS) #Version Number# "
+
+  ![image](https://github.com/user-attachments/assets/b5dd5223-b4f0-4d61-8073-93614c7e52bf)
+
